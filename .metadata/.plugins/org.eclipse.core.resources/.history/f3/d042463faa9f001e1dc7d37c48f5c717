@@ -1,0 +1,52 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>table</title>
+<style type="text/css">
+	*{
+		margin: 0;
+		padding: 0;
+	}
+	
+	tr,td{
+		border-collapse :collapse;
+		box-sizing:border-box;
+		border: 1px solid black;
+	}
+
+</style>
+</head>
+<body>
+<%
+	int row=Integer.parseInt(request.getParameter("row"));
+	int column=Integer.parseInt(request.getParameter("column"));
+	int check=1;
+%>
+<table>
+<%
+	for(int i=0;i<row;i++){
+%>
+	<tr>
+<%		
+	for(int j=0;j<column; j++){
+%>
+	<td>
+	<%=check%>
+	</td>
+<%	
+	check++;
+	}
+%>
+</tr>
+<%
+	}
+%>
+
+
+
+</table>
+</body>
+</html>

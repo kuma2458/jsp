@@ -1,0 +1,15 @@
+1703117884448	Move '00_java_basecamp.jsp' to 'webapp'
+1703118111801	Delete element
+1703119708943	Rename resource 'data_reuslt.jsp'
+1703122043065	Rename resource 'dudugan_result.jsp'
+1703122928003	Rename resource '03_operator.jsp'
+1703122934522	Rename resource 'operator_result_jsp.jsp'
+1703125684591	Rename resource '04_table.jsp'
+1703129535897	Move 'header.jsp' to 'webapp'
+1703129665301	Rename resource 'header'
+1703129673421	Move 'header.jsp' to 'template'
+1703135090086	Move 'resource' to 'template'
+1703135103142	Rename resource 'img'
+1703135334585	Move 'resource' to 'webapp'
+1703135517357	Delete element
+1703135520129	Rename resource '08_main.jsp'
