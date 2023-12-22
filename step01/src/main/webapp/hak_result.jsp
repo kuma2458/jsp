@@ -8,6 +8,8 @@
 </head>
 <body>
 <%
+	//post일 경우 패킷에 포함되서 오기 때문에 한글 문자 코드가 깨짐, UTF-8로 변환 필요
+	request.setCharacterEncoding("utf-8");
 	String hak=request.getParameter("hak");
 	String name=request.getParameter("name");
 	String major=request.getParameter("major");
