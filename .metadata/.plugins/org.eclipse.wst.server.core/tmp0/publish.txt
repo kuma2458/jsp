@@ -1,5 +1,7 @@
 #Tomcat publish data
-#Fri Dec 22 17:32:12 KST 2023
+#Thu Dec 28 14:52:09 KST 2023
 org.eclipse.jst.jee.server\:step02=D\:\\kimdonghyun\\tomcat8\\apache-tomcat-8.5.97\\webapps\\step02
 org.eclipse.jst.jee.server\:step01=D\:\\kimdonghyun\\tomcat8\\apache-tomcat-8.5.97\\webapps\\step01
+org.eclipse.jst.jee.server\:StudentProject=D\:\\kimdonghyun\\tomcat8\\apache-tomcat-8.5.97\\webapps\\StudentProject
+org.eclipse.jst.jee.server\:step04=D\:\\kimdonghyun\\tomcat8\\apache-tomcat-8.5.97\\webapps\\step04
 org.eclipse.jst.jee.server\:step03=D\:\\kimdonghyun\\tomcat8\\apache-tomcat-8.5.97\\webapps\\step03
